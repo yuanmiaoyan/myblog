@@ -1,0 +1,20 @@
+{
+  "name": "201606blog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "yuanmiaoyan <979476293@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

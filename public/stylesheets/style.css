@@ -1,0 +1,22 @@
+body {
+  padding: 0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: url("../images/bg1.jpg") repeat;
+
+}
+
+a {
+  color: #00B7FF;
+}
+.article-list{
+  width: 84%;
+  padding: 3%;
+  box-shadow: 0 0 10px #ccc;
+  margin: 30px auto;
+  background: rgba(255,255,255,.6);
+  border-radius: 10px;
+}
+.article-list .media{
+  border-bottom: 1px solid #ccc;
+  padding: 20px 0;
+}
